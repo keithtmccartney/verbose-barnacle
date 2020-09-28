@@ -8,7 +8,7 @@ Grab the article at [https://www.smashingmagazine.com/2019/02/interactive-weathe
 * "npm install -g vue@latest vue-cli@latest" (Installing latest 'Vue' and 'Vue-Cli' packages);
 * "vue init webpack-simple verbose-barnacle" (Initialising a new 'webpack-simple' templated Vue project);
 * "cd verbose-barnacle", "npm install", "npm run dev" (Getting the started with pre-installation and first build run);
-* "npm audit", "npm audit fix" (Auditing the package vulnerabilities and fixing said packages);
+* "npm audit", "npm audit fix", "npm install --save-dev webpack-dev-server@latest", "npm install --save-dev css-loader@latest", "npm install --save-dev webpack@latest" (Auditing the package vulnerabilities and fixing said packages);
 
 ## What's it all about?
 
