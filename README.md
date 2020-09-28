@@ -50,6 +50,10 @@ You may need an additional loader to handle the result of these loaders.
  @ ./src/main.js"
 * On a GitHub page it was suggested that an earlier version - 14.2.2 - would help fix the issue for this build (15.9.3), thus installing - "npm install --save-dev vue-loader@^14.2.2" - has fixed the immediate problem; running "npm install" followed by "npm run dev" has provided me with my initial project;
 
+## Notes:
+
+* "One important thing before we move on — the URL for the Google Maps API contains a key which is a property of FusionCharts. For now, you can use this key to build the project, as we don’t want you to get bogged down by these type of minute details (which can be distractions while you are new). However, we strongly urge you to generate and use your own Google Maps API key once you have made some progress and feel comfortable to pay attention to these tiny details."
+
 ## What's it all about?
 
 * Creating a dashboard with API data is often a complex affair. Choosing your tech stack, integrating APIs, selecting the right charts and beautifying with CSS styles can become tricky. This tutorial is a step-by-step guide on how to help you create a weather dashboard in Vue.js using API data
