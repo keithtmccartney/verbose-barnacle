@@ -48,7 +48,7 @@ You may need an additional loader to handle the result of these loaders.
 |   <h1>{{ msg }}</h1>
  @ ./src/App.vue 1:0-82 11:2-8 12:2-17 31:4-36:6 31:66-36:5 33:16-22 34:25-40
  @ ./src/main.js"
-* On a GitHub page it was suggested that an earlier version - 14.2.2 - would help fix this issue, thus installing - "npm install --save-dev vue-loader@^14.2.2" - has fixed the immediate problem; running "npm install" followed by "npm run dev" has provided me with my initial project;
+* On a GitHub page it was suggested that an earlier version - 14.2.2 - would help fix the issue for this build (15.9.3), thus installing - "npm install --save-dev vue-loader@^14.2.2" - has fixed the immediate problem; running "npm install" followed by "npm run dev" has provided me with my initial project;
 
 ## What's it all about?
 
