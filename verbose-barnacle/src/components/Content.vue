@@ -11,7 +11,7 @@
 </template>
 
 <script>
-    import TempVarChart from './TempVarChar.vue'
+    import TempVarChart from './TempVarChart.vue'
     import Highlights from './Highlights.vue'
     export default {
         props: ["weather_data"],
