@@ -55,6 +55,8 @@ You may need an additional loader to handle the result of these loaders.
 * "One important thing before we move on — the URL for the Google Maps API contains a key which is a property of FusionCharts. For now, you can use this key to build the project, as we don’t want you to get bogged down by these type of minute details (which can be distractions while you are new). However, we strongly urge you to generate and use your own Google Maps API key once you have made some progress and feel comfortable to pay attention to these tiny details.";
 * Adding 'Vue.js devtools' to Chrome for a suitable debug environment;
 * Interesting injecting/rendering of properties under 'props' ([https://vuejs.org/v2/guide/components-props.html](https://vuejs.org/v2/guide/components-props.html));
+* Retrieves geolocation data from Google's Maps API for JavaScript (as mentioned above);
+* Retrieves weather data from Dark Sky API;
 
 ## What's it all about?
 
