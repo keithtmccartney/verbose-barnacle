@@ -1,7 +1,5 @@
 <template>
-    <div id="highlights">
-        <p>Weather Highlights:</p>
-        {{ highlights }}
+    <div>
         <uv-index :highlights="highlights"></uv-index>
         <visibility :highlights="highlights"></visibility>
         <wind-status :highlights="highlights"></wind-status>
