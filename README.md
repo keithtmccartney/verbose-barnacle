@@ -57,6 +57,7 @@ You may need an additional loader to handle the result of these loaders.
 * Interesting injecting/rendering of properties under 'props' ([https://vuejs.org/v2/guide/components-props.html](https://vuejs.org/v2/guide/components-props.html));
 * Retrieves geolocation data from Google's Maps API for JavaScript (as mentioned above);
 * Retrieves weather data from Dark Sky API;
+* Vue's 'App' component accepts only one element in its templating (e.g. [https://www.compulsivecoders.com/tech/vuejs-component-template-should-contain-exactly-one-root-element/](https://www.compulsivecoders.com/tech/vuejs-component-template-should-contain-exactly-one-root-element/));
 
 ## What's it all about?
 
